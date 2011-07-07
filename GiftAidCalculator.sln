@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftAidCalculator.Tests", "GiftAidCalculator.Tests\GiftAidCalculator.Tests.csproj", "{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftAidCalculator.TestConsole", "GiftAidCalculator.TestConsole\GiftAidCalculator.TestConsole.csproj", "{AD507362-C20C-446D-B4E8-5194AF6EFC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B62FCBC9-AB05-4CBC-8577-E0280E5CC411}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Debug|x86.ActiveCfg = Debug|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Debug|x86.Build.0 = Debug|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Release|Any CPU.ActiveCfg = Release|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Release|x86.ActiveCfg = Release|x86
+		{AD507362-C20C-446D-B4E8-5194AF6EFC06}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
