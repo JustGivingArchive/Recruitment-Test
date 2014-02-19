@@ -18,8 +18,6 @@ For reference, Gift Aid is calculated as follows:
 - Your code should trend towards being SOLID.
 - Please [download](https://github.com/JustGiving/Recruitment-Test/archives/master) the [Recruitment-Test repository](https://github.com/JustGiving/Recruitment-Test), complete the tasks as you see fit.
 - Send us a Dropbox/Skydrive/whatever link to your zipped code to ana.henneberke@justgiving.com but please do not send attached zip files via email.
-- **OR**
-- If you have a paid GitHub account, feel free to create a **private repo** (you don't want people to copy you!) and send us a pull request.
 
 ## Task Stories
 
