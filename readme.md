@@ -17,7 +17,7 @@ For reference, Gift Aid is calculated as follows:
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
 - Please [download](https://github.com/JustGiving/Recruitment-Test/archives/master) the [Recruitment-Test repository](https://github.com/JustGiving/Recruitment-Test), complete the tasks as you see fit.
-- Send us a Dropbox/Skydrive/whatever link to your zipped code to ana.henneberke@justgiving.com but please do not send attached zip files via email.
+- Send us a Dropbox/Skydrive/whatever link to your zipped code to james.adams@justgiving.com but please do not send attached zip files via email!
 
 ## Task Stories
 
