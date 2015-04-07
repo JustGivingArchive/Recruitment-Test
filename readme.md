@@ -10,6 +10,7 @@ For reference, Gift Aid is calculated as follows:
 
 - This assignment takes an average of about 30 minutes.
 - We use [NUnit](http://www.nunit.org) and [Moq](http://code.google.com/p/moq) at JustGiving, references have been added using [NuGet](http://nuget.codeplex.com/) Packages. Everything is in place for you to just write the code (no "File > New Project" required).
+- Please DO NOT fork this project on Github, as we want to be sure candidates' test submissions are original.
 
 ## Task requirements
 
